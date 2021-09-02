@@ -1,6 +1,4 @@
 # Space Fighters
-
-# About
 Two playe spaceship fighting game.
 
 # License
