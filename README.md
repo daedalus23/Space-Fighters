@@ -1,7 +1,6 @@
 # Space Fighters
 Two player spaceship fighting game.
-
-
+\n
 # Available SpaceShips
 ![PlayerOne](https://github.com/daedalus23/Space-Fighters/blob/main/assets/PlayerOne.png)
 ![PlayerTwo](https://github.com/daedalus23/Space-Fighters/blob/main/assets/PlayerTwo.png)
